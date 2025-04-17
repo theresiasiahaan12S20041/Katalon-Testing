@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank manager successfully view all the customers data</description>
+   <name>Verify that customer data is displayed successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe105f61-d8a4-451e-b2ac-852e75b38fac</testCaseGuid>
+</TestCaseEntity>

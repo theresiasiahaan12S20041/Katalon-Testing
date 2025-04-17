@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank manager failed to add a new customer because the first name field contains number</description>
+   <name>Verify customer addition fails when the first name field contains number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c63471e-83ed-4c96-86bc-3302a22a27b5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank manager sucessfully delete the customers data and account</description>
+   <name>Verify customer data is successfully deleted</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>767df417-dab1-4bf4-a9a9-dea8b04ba238</testCaseGuid>
+</TestCaseEntity>

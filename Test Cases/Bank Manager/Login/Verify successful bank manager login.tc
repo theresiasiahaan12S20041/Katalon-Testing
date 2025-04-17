@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank manager successfully login</description>
+   <name>Verify successful bank manager login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d7c0b78-0003-4eb6-b8cb-b8fbffba58df</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User successfull add deposit to their account</description>
+   <name>Verify deposit failure when amount field contains a dot</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0f7925b-7002-4e54-9375-5cce48f39e9b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User successfully withdrawl their money</description>
+   <name>Verify money withdrawal is successful</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7690462-dd75-417b-861c-b7ab64e08304</testCaseGuid>
+</TestCaseEntity>

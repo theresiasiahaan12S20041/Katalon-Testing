@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User successfully reset their transactions</description>
+   <name>Verify customer transaction reset is successful</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0cb35ee-4fab-491e-9bf0-0c53df6e3001</testCaseGuid>
+</TestCaseEntity>

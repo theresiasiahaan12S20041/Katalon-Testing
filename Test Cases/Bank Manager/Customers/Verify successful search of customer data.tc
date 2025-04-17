@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank manager successfully search customer data using search bar</description>
+   <name>Verify successful search of customer data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4114ca3a-e6b4-4593-ad53-c4b77d924d1f</testCaseGuid>
+</TestCaseEntity>

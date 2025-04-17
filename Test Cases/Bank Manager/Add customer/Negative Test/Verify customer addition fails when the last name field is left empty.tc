@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank manager failed to add a new customer because the last name field was left empty</description>
+   <name>Verify customer addition fails when the last name field is left empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64f5ba36-ef32-4b56-84dd-9a8ba5f2c601</testCaseGuid>
+</TestCaseEntity>

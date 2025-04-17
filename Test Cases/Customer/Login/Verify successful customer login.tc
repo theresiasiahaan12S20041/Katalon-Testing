@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Customer successfully login by their name</description>
+   <name>Verify successful customer login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5bce4691-9ce6-4b0e-9900-123a1cf389ae</testCaseGuid>
+</TestCaseEntity>

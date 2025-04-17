@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Customer fails to deposit their money because the amount is left empty</description>
+   <name>Verify withdrawal failure when amount field is left empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c7bc091-34d0-434d-ade3-fd90029c0f1b</testCaseGuid>
+</TestCaseEntity>

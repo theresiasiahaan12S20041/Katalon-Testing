@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User successfully deposit money to their account</description>
+   <name>Verify deposit is added successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50daad0e-2170-44d7-918a-a8936f220749</testCaseGuid>
+</TestCaseEntity>

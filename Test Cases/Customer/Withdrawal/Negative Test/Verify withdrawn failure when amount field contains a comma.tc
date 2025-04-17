@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Customer fails to deposit their money because the amount is left empty</description>
+   <name>Verify withdrawn failure when amount field contains a comma</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97928d4c-a8d5-42c8-a6bc-1c1232406ea2</testCaseGuid>
+</TestCaseEntity>

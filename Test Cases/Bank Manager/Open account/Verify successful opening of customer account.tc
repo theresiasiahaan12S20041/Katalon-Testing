@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank manager successfully open the customer accounts</description>
+   <name>Verify successful opening of customer account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dab1b0d9-b4ef-4a69-a0de-acda74ed9770</testCaseGuid>
+</TestCaseEntity>

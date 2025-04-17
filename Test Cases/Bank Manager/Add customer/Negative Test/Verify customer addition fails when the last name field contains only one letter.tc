@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank manager failed to add a new customer because the last name field contains only one letter or name too short</description>
+   <name>Verify customer addition fails when the last name field contains only one letter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a79fcdce-354b-4c5e-a053-2088364a43c8</testCaseGuid>
+</TestCaseEntity>

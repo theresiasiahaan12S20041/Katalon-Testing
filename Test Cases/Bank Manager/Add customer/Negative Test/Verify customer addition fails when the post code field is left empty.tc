@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank manager failed to add a new customer because the post code field was left empty</description>
+   <name>Verify customer addition fails when the post code field is left empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f92268c0-84ab-4d9e-83f5-35d8657602f2</testCaseGuid>
+</TestCaseEntity>

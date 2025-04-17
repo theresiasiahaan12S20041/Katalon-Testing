@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can see their transactions</description>
+   <name>Verify customer can view transaction successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f42e2663-1fe5-4e94-94b9-d61944bd4176</testCaseGuid>
+</TestCaseEntity>

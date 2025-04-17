@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Customer fails to deposit their money because the amount contains dot</description>
+   <name>Verify deposit failure when amount field contains a comma</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89e59222-51e9-4242-8c92-b73bf6bacb99</testCaseGuid>
+</TestCaseEntity>

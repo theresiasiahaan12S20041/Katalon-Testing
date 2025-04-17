@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank Manager successfully add new customer</description>
+   <name>Verify customer is added successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a55bfa2-e0ca-4aee-8480-49cc65e32b37</testCaseGuid>
+</TestCaseEntity>

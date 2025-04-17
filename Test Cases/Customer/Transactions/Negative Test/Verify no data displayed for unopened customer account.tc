@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Customer account does not display anything because their account has not been opened by the bank manager</description>
+   <name>Verify no data displayed for unopened customer account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dc6ba47-0a7b-4fea-bc8a-a7826a235ea5</testCaseGuid>
+</TestCaseEntity>

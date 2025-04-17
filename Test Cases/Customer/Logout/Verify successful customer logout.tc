@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Customer successfully logout from the website</description>
+   <name>Verify successful customer logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54cf66d2-4da2-4724-87ca-4e56ca0c5d79</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank manager failed to add a new customer because the first name field contains leading and trailing spaces</description>
+   <name>Verify customer addition fails when the first name field contains leading and trailing spaces</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dbfa9e03-b8ca-4354-aa6a-cc4e86d5e948</testCaseGuid>
+</TestCaseEntity>

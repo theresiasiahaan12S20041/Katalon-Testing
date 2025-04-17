@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Customer fails to deposit their money because the amount is left empty</description>
+   <name>Verify withdrawn failure when amount field contains a dot</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d515a01-47a8-4847-8272-7c18c66e660e</testCaseGuid>
+</TestCaseEntity>

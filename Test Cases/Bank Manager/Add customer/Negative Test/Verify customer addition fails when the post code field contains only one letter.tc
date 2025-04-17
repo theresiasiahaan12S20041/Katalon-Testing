@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank manager failed to add a new customer because the post code field contains leading and trailing spaces</description>
+   <name>Verify customer addition fails when the post code field contains only one letter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dfe304e7-9eba-4cc0-a4aa-2fbe0b6d4647</testCaseGuid>
+</TestCaseEntity>
